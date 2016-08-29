@@ -1,0 +1,8 @@
+.vs/
+src/DemoApp/.idea/
+src/DemoApp/bin/Debug/
+src/DemoApp/node_modules/
+src/DemoApp/obj/
+src/DemoApp/typings/
+*.xproj.user
+src/DemoApp/dist/

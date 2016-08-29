@@ -1,0 +1,24 @@
+{
+  "name": "demo_app",
+  "dependencies": {},
+  "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404",
+    "chosen.jquery": "registry:dt/chosen.jquery#0.0.0+20160714084217",
+    "isomorphic-fetch": "registry:dt/isomorphic-fetch#0.0.0+20160524142046",
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008",
+    "jquery.datatables": "github:DefinitelyTyped/DefinitelyTyped/jquery.dataTables/jquery.dataTables.d.ts",
+    "react": "registry:dt/react#0.14.0+20160817201227",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-redux": "registry:dt/react-redux#4.4.0+20160724070751",
+    "react-router": "registry:dt/react-router#2.0.0+20160813233016",
+    "react-router-redux": "registry:dt/react-router-redux#4.0.0+20160724070902",
+    "react-router/history": "registry:dt/react-router/history#2.0.0+20160608102730",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-form": "registry:dt/redux-form#4.0.3+20160803140805",
+    "redux-saga": "registry:dt/redux-saga#0.9.1+20160703120921",
+    "source-map": "registry:dt/source-map#0.0.0+20160317120654",
+    "uglify-js": "registry:dt/uglify-js#2.6.1+20160316155526",
+    "webpack": "registry:dt/webpack#1.12.9+20160724112410",
+    "webpack-env": "registry:dt/webpack-env#1.12.2+20160316155526"
+  }
+}
