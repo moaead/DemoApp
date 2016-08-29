@@ -6,3 +6,4 @@ src/DemoApp/obj/
 src/DemoApp/typings/
 *.xproj.user
 src/DemoApp/dist/
+.idea/
